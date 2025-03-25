@@ -1,6 +1,18 @@
 #include<stdio.h>
-int main;
+int main(){
+
 char course;
-print("enter the chosen course")
-print("the chosen course is CSE")
+printf("enter the chosen course")
+scanf("%c",&choice);
+switch(choice){
+	case 0;
+	printf("chossen course b .tech CSE")
+		case 1;
+		printf("chossen course B.TECH AIML")
+		case 2;
+		prntf("chossen course b.tech AIDS")
+		case 3;
+		printf("chossen course b.tech ECE")
+}
 return 0;
+}
