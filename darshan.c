@@ -2,5 +2,5 @@
 int main;
 char course;
 print("enter the chosen course")
-print("the chosen course is web technology")
+print("the chosen course is AIML")
 return 0;
